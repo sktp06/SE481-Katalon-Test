@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to Favourites</name>
+   <tag></tag>
+   <elementGuidId>64eecf3b-f0df-4b45-899d-f1cd866e5970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[10]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b4ca307a-2f5d-4564-a86c-ab7f25c14f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-blue-400 hover:bg-green-400 text-white font-bold py-2 px-4 rounded-full</value>
+      <webElementGuid>a0ff25e8-d2f2-442e-b2f5-9ffb8f01e374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add to Favourites </value>
+      <webElementGuid>1060c62c-9967-4618-92db-9936156fd755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;grid grid-cols-4 gap-5 p-[50px]&quot;]/div[@class=&quot;max-w-sm overflow-hidden rounded-xl bg-white shadow-md duration-200 hover:scale-105 hover:shadow-xl mr-4 flex flex-col justify-center py-5&quot;]/button[@class=&quot;bg-blue-400 hover:bg-green-400 text-white font-bold py-2 px-4 rounded-full&quot;]</value>
+      <webElementGuid>fe5dee05-fdd3-4c70-a261-b89346a8c4df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[10]/button</value>
+      <webElementGuid>cfd5a8e3-c718-4bd2-92de-9a40c7a3b5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Favourites'])[9]/following::button[1]</value>
+      <webElementGuid>434b1851-eb3e-4846-951e-cfed16b201c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Favourites'])[8]/following::button[2]</value>
+      <webElementGuid>fd6680ed-550d-420f-af2c-0334b60cc8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button</value>
+      <webElementGuid>97fe7d75-8f96-4dc6-928e-9150ce2a02b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Add to Favourites ' or . = ' Add to Favourites ')]</value>
+      <webElementGuid>f3b8b085-a502-4fa8-baa1-75f20063a421</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Username</name>
+   <tag></tag>
+   <elementGuidId>8ab13c05-98ed-4fd0-bd2c-95197e5eeb7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/main/section/div[2]/div/div/div/div[2]/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.relative.w-full.mb-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61896143-35df-4e5b-a437-acb6ede1e259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative w-full mb-3</value>
+      <webElementGuid>9982e5e7-a4d3-41cf-ae79-af8c8b5e5671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>e5a0c23d-f00e-4ceb-8854-b0d8bed2e8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@id=&quot;app&quot;]/div[2]/main[1]/section[@class=&quot;absolute w-full h-full&quot;]/div[@class=&quot;container mx-auto px-4 h-full&quot;]/div[@class=&quot;flex content-center items-center justify-center h-full&quot;]/div[@class=&quot;w-full lg:w-4/12 px-4&quot;]/div[@class=&quot;relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-purple-100 border-0&quot;]/div[@class=&quot;flex-auto px-4 lg:px-10 py-10 pt-0&quot;]/form[1]/div[@class=&quot;relative w-full mb-3&quot;]</value>
+      <webElementGuid>70db343f-8625-457d-b713-a5598e2927fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/main/section/div[2]/div/div/div/div[2]/form/div</value>
+      <webElementGuid>1d085494-9b30-4280-8e0c-0ae1222793c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[2]</value>
+      <webElementGuid>850c6b18-482e-4c87-bbee-f497585c4fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime'])[1]/following::div[10]</value>
+      <webElementGuid>cea5a8f0-3773-4c90-823d-1a547a102bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>e5d28f43-111b-424c-8534-6a620c30ca81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>589ed941-49b1-49a9-b572-6c3ab1cb5899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Username' or . = 'Username')]</value>
+      <webElementGuid>b5c7f6a4-6bda-476a-8c72-3f896d055ab3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
